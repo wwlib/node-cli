@@ -1,0 +1,10 @@
+{
+    "activeProfileId": "Default",
+    "profiles": [
+        {
+            "profileId": "Default",
+            "userId": "user",
+            "userPassword": "password"
+        }
+    ]
+}
